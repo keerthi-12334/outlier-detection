@@ -13,6 +13,7 @@ This repository contains Jupyter notebooks for data analysis and visualization.
    - Techniques: Quartiles, IQR, Fences
    - Libraries: NumPy, Seaborn
    - Output: Visualizes distribution and highlights outliers in boxplot
+   - <a href="https://github.com/keerthi-12334/outlier-detection/blob/main/Untitled1.ipynb"> IQR</a>
 
 ## Tech Stack
 - Python
