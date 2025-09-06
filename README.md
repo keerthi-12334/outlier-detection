@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks for data analysis and visualization.
    - Techniques: Z-score, Standard Deviation
    - Libraries: NumPy, Matplotlib
    - Output: Identifies outliers in dataset `[102, 107, 108]`
-   - <a href="https://github.com/keerthi-12334/outlier-detection/blob/main/Untitled0.ipynb"><z-score></a>
+   - <a href="https://github.com/keerthi-12334/outlier-detection/blob/main/Untitled0.ipynb">z-score</a>
 
 2. # Outlier Detection using IQR (Boxplot)
    - Techniques: Quartiles, IQR, Fences
