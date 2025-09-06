@@ -1,2 +1,22 @@
-# outlier-detection
-Notebooks on outlier detection using Z-score and IQR, with visualizations in Matplotlib &amp; Seaborn”).
+# Data Analysis Projects
+
+This repository contains Jupyter notebooks for data analysis and visualization.
+
+##  Projects
+1. # Outlier Detection using Z-Score**
+   - Techniques: Z-score, Standard Deviation
+   - Libraries: NumPy, Matplotlib
+   - Output: Identifies outliers in dataset `[102, 107, 108]`
+
+2. # Outlier Detection using IQR (Boxplot)**
+   - Techniques: Quartiles, IQR, Fences
+   - Libraries: NumPy, Seaborn
+   - Output: Visualizes distribution and highlights outliers in boxplot
+
+## Tech Stack
+- Python
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
